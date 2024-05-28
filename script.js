@@ -60,4 +60,3 @@ function restartGame() {
     document.getElementById('end-screen').style.display = 'none';
     document.getElementById('start-screen').style.display = 'block';
 }
-
